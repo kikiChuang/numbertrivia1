@@ -1,0 +1,10 @@
+E:\CICD_CORE\api\obj\Debug\netcoreapp2.0\api.csproj.CoreCompileInputs.cache
+E:\CICD_CORE\api\obj\Debug\netcoreapp2.0\api.AssemblyInfoInputs.cache
+E:\CICD_CORE\api\obj\Debug\netcoreapp2.0\api.AssemblyInfo.cs
+E:\CICD_CORE\api\bin\Debug\netcoreapp2.0\api.deps.json
+E:\CICD_CORE\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.json
+E:\CICD_CORE\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.dev.json
+E:\CICD_CORE\api\bin\Debug\netcoreapp2.0\api.dll
+E:\CICD_CORE\api\bin\Debug\netcoreapp2.0\api.pdb
+E:\CICD_CORE\api\obj\Debug\netcoreapp2.0\api.dll
+E:\CICD_CORE\api\obj\Debug\netcoreapp2.0\api.pdb
